@@ -1,9 +1,9 @@
 {
-    "name": "Genius-Userbot",
+    "name": "Rex-uB",
     "logo": "https://te.legra.ph/file/ceee32999a8250a1f7ebb.png",
     "description": "An Advanced Premium Music & user Bot For Telegram ID.",
-    "keywords": ["music", "voice chat", "userbot"],
-    "repository": "https://github.com/GeniusBoi/Genius-Userbot",
+    "keywords": ["music", "voice chat", "uB"],
+    "repository": "https://github.com/KashDaYash/RexUB",
     "stack": "container",
     "env": {
         "API_ID": {
